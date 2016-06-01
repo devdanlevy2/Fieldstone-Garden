@@ -1,5 +1,5 @@
 # Site
-title:              Fieldstone Gaarden
+title:              Fieldstone Garden
 bio:                'Fresh Produce & Local Artisinal Products'
 description:        "Blog Site for Fieldstone Garden"
 reading_time:       true
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           username
+facebook:           https://www.facebook.com/fieldstonefarmnc/
 #github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
